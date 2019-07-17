@@ -1,0 +1,8 @@
+#
+# Import the Solr configuration for the Electronics store
+#
+$indexConfigName=electronicsSolrIndexConfig
+
+# Create the solr indexer configuration
+INSERT_UPDATE SolrIndexConfig;name[unique=true];batchSize;numberOfThreads;indexMode(code);
+;$indexConfigName;1000;10;TWO_PHASE;

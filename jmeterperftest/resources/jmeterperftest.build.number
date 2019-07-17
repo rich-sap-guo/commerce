@@ -1,0 +1,9 @@
+#Ant properties
+#Wed Jun 12 14:28:09 CEST 2019
+builddate=20190612 1426
+description=jmeterperftest
+name=jmeterperftest
+releasedate=20181129 1417
+vendor=hybris
+version=1811.8
+version.api=1811
