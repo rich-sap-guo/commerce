@@ -210,6 +210,10 @@
                 {
                     "name": "yacceleratorstorefront",
                     "contextPath": ""
+                },
+                {
+                    "name": "hac",
+                    "contextPath": "/hac"
                 }
               ]
         },
