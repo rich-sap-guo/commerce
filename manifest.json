@@ -58,17 +58,17 @@
         },
         {
             "key": "website.electronics.http",
-            "value": "http://accstorefront.cnzo0f2-cloudoper1-p3-public.model-t.cc.commerce.ondemand.com/"
+            "value": "http://accstorefront.cnzo0f2-cloudoper1-s1-public.model-t.cc.commerce.ondemand.com/"
         },
         {
             "key": "website.electronics.https",
-            "value": "https://accstorefront.cnzo0f2-cloudoper1-p3-public.model-t.cc.commerce.ondemand.com/"
+            "value": "https://accstorefront.cnzo0f2-cloudoper1-s1-public.model-t.cc.commerce.ondemand.com/"
         },
         {
             "key": "lang.packs",
             "value": "en"
         },
-                {
+        {
             "key": "googleApiKey",
             "value": ""
         },
@@ -94,7 +94,7 @@
         },
         {
             "key": "sop.post.url",
-            "value": "http://accstorefront.cnzo0f2-cloudoper1-p3-public.model-t.cc.commerce.ondemand.com/acceleratorservices/sop-mock/process"
+            "value": "http://accstorefront.cnzo0f2-cloudoper1-s1-public.model-t.cc.commerce.ondemand.com/acceleratorservices/sop-mock/process"
         }
     ],
 
