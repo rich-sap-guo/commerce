@@ -95,6 +95,10 @@
         {
             "key": "sop.post.url",
             "value": "http://accstorefront.cnzo0f2-cloudoper1-p3-public.model-t.cc.commerce.ondemand.com/acceleratorservices/sop-mock/process"
+        },
+        {
+            "key": "hac.webroot",
+            "value": "/hac"
         }
     ],
 
