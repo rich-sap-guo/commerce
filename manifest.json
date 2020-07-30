@@ -1,5 +1,5 @@
 {
-    "commerceSuiteVersion": "1905.10",
+    "commerceSuiteVersion": "1905.17",
     "extensions": [
         "acceleratorfacades",
         "acceleratorcms",
@@ -48,8 +48,7 @@
         "cmssmartedit",
         "cmssmarteditwebservices",
         "cmswebservices",
-        "previewwebservices",
-        "bigelectronicsaddon"
+        "previewwebservices"
     ],
     "properties": [
         {
@@ -108,11 +107,6 @@
             "addon": "cmsoccaddon",
             "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
-        },
-        {
-            "addon": "bigelectronicsaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
         }
     ],
     "aspects": [
