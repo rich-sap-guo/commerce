@@ -17,6 +17,7 @@ Set javascript.use_rhino=true
 5. Update the initializationSetup.csv inside the inputDataFolder to relfect the server, port and the uri.
 6. Add a http parameter of site=electronics, if reuired to match the url pattern.
 7. The report generation properties have already been added to the user.properties. 
+8. Update the values in webshop_user.properties, main ones being: threads, rampup, duration, inputDataFolder and outputDataFolder. 
 8. Thats it! We are all set to start the tests!
 
 ## Performance tests execution
